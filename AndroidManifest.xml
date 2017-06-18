@@ -13,7 +13,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.safetynet">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.safetynet"
+    android:versionCode="1100"
+    android:versionName="11.0.0">
     <uses-sdk android:minSdkVersion="14"/>
     <application/>
 </manifest>
